@@ -6,7 +6,7 @@ EMAIL-RESPONSIVE
 ####Tested in Chrome, FireFox, Safari and in Gmail Mobile for responsiveness
 ####Also design to work for Yahoo, IE and Apple Mail
 
-####Main Design:
+#####Main Design:
 ![Main](https://s3.amazonaws.com/uploads.hipchat.com/119067/1211609/bPQPIb1KzZlg02E/Main-responsive.png)
 
 ####Cross Browser:
