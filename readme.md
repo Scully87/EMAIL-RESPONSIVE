@@ -1,4 +1,4 @@
-EMAIL-RESPONSIVE
+:email: EMAIL-RESPONSIVE :email:
 ==================
 
 ###Created another Responsive Email template
